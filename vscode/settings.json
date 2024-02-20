@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.autoIndent": "none",
+    "editor.tabSize": 2,
+    "diffEditor.renderSideBySide": false,
+    "editor.renderWhitespace": "all",
+    "code-eol.newlineCharacter": "↵",
+    "telemetry.telemetryLevel": "off",
+    "html.autoClosingTags": false
+}
